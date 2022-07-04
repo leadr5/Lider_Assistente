@@ -1,6 +1,7 @@
 <h1 align="center">Lider-Assistente</h1>
 <h4 align="center">Projeto em desenvolvimento, um assistente virtual com automações de software e automaçoes residencial utilizando arduino</h4>
 
+https://user-images.githubusercontent.com/41659892/177181465-68e1768d-8321-4556-8f02-29dbdaf1bcdf.mp4
 
 <h3 align="center">Para este projeto:</h3>
 <ul>
