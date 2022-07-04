@@ -13,3 +13,6 @@ https://user-images.githubusercontent.com/41659892/177065711-cb242d4d-8a3b-4dbb-
 <h5 align="center">
  Para a automação quero usar arduino e modulos relés para acionar os dispositivos conectados,<br>
 e para acessar os dispositivos de qualquer lugar um webservice ligando o APP ao arduino.
+<h5>
+ Para rodar o projeto é necessário instalar Ricardo Ivona Voice:<br>
+ https://harposoftware.com/en/portuguese-brasil/166-ricardo-portuguese-brasilian-voice.html
